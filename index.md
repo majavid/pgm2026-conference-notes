@@ -3,7 +3,7 @@ layout: default
 title: PGM 2026 – Conference Diary (Valencia, Spain)
 ---
 
-**PGM 2026 – The 12th International Conference on Probabilistic Graphical Models, Valencia, Spain (September 8–11, 2026).**
+**PGM 2026 – The 13th International Conference on Probabilistic Graphical Models, Valencia, Spain (September 8–11, 2026).**
 
 This mini-blog collects my reflections and notes from four days at PGM 2026 in Valencia, Spain, with a particular focus on causality, structure learning with latent variables, inference in graphical models, and physics-informed AI/ML.
 
