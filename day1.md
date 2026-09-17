@@ -18,7 +18,7 @@ The hotel restaurant was great, with good food. The olives, especially, were ama
 
 Photos from Day 1 are available in my Google Drive album:
 
-[📷 Day 1 Photo Album →](PASTE_YOUR_GOOGLE_DRIVE_FOLDER_LINK_HERE)
+[📷 Day 1 Photo Album →]([PASTE_YOUR_GOOGLE_DRIVE_FOLDER_LINK_HERE](https://drive.google.com/drive/folders/1jJYqJsQqIh-28tFAwQLR9marPzmAGw73?usp=sharing))
 
 <!--
 To embed individual photos directly on this page, use this pattern for each image
