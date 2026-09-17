@@ -36,7 +36,7 @@ Several audience members showed interest in the talk, and I had several good con
 
 ### 4. Greetings for Marco
 
-Jirka and Alessandro (who remembered me from FLAIRS 2019, when I presented one of my PhD papers and he chaired the session) both asked me to say hello to Marco — my PhD advisor — and asked about him.
+Jirka and Alessandro (who remembered me from FLAIRS 2019, when I presented one of my PhD papers and he chaired the session) both asked me to say hello to Marco Valtorta — my PhD advisor — and asked about him.
 
 ## Photo Album
 
